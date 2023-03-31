@@ -1,12 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from './Components/UI/Footer';
+import Header from './Components/UI/Header';
+
 
 function App() {
   return (
-    
-        <p>Hola mundo</p>
-       
-    
+    <div>
+      <p>Hola Mundo</p>
+      <Header />
+
+
+
+        <Footer />
+    </div>
+
   );
 }
 
