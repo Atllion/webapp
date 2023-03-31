@@ -3,8 +3,8 @@ import './Header.css';
 function Header() {
     return (
         <div className='header'>
-            <h1>Productos</h1>
-            <p>Introduce dos números</p>
+            <h1>PRODUCTOS</h1>
+            <p>Selecciona los productos y la cantidad</p>
         </div>
     )
 }
